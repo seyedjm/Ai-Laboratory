@@ -1,0 +1,11 @@
+attack_type,attack_vector,target_asset,threat_level
+Phishing,Email,User Account,Medium
+Malware,Web Download,Workstation,Medium
+DDoS,Botnet,Web Server,High
+Ransomware,Remote Desktop,File Server,Critical
+Phishing,Email,User Account,High
+Malware,USB Device,Workstation,Medium
+DDoS,Botnet,Web Server,Medium
+Ransomware,Remote Desktop,File Server,Critical
+Phishing,Email,User Account,High
+Malware,Web Download,Workstation,High
